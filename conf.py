@@ -193,8 +193,8 @@ htmlhelp_basename = 'GeoNodedoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'GeoNode.tex', 'GeoNode Documentation',
-   'GeoNode Development Team', 'manual'),
+  ('index', 'GeoNode.tex', 'iDAI Geoserver',
+   'dai', 'manual'),
 ]
 
 latex_elements = {
@@ -230,16 +230,16 @@ latex_elements = {
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'geonode', 'GeoNode Documentation',
-     ['GeoNode Development Team'], 1)
+    ('index', 'geonode', 'iDai Geoserver Documentation',
+     ['dai'], 1)
 ]
 
 
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = 'GeoNode'
-epub_author = 'GeoNode Development Team'
+epub_title = 'iDai Geoserver'
+epub_author = 'dai'
 epub_publisher = 'GeoNode Development Team'
 epub_copyright = '2017-2020, Open Source Geospatial Foundation, CC-SA'
 
