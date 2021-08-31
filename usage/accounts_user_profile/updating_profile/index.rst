@@ -4,7 +4,7 @@ Updating the Profile
 =====================
 
 Once having an account you can enrich your profile with useful information, you can also edit or delete the existing ones.
-You can connect the account with your social network, associate many e-mail addresses to it and manage many options such as preferences about notifications.
+You can associate many e-mail addresses to it and manage many options such as preferences about notifications.
 
 You can update these information anytime from your *Profile* page, it is accessible from the user menu.
 
@@ -52,7 +52,6 @@ All other links and their functionalities will be described in depth in the foll
     :maxdepth: 1
 
     editing_profile
-    connecting_with_social
     associating_email
     managing_password
     notification_settings
